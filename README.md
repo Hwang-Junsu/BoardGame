@@ -1,2 +1,12 @@
-# BoardGame
-C++ BoardGame(Omok, Othello, Bingo
+# C++을 활용한 BoardGame
+
+## 개요
+- 객체지향 프로그래밍에 대한 개념과 그에 대한 특징들(추상화, 캡슐화, 상속성, 다형성) 에 대해 이론적으로는 배웠지만, 처음부터 완전히 이해하기에는 무리가 있었습니다. 
+- 이러한 개념들을 이해하기 위해 오목, 오델로게임을 따로 만들어보고 두 코드의 공통점을 이용하여 하나로 합치는 과정으로 구현하였습니다.   
+- 기본적인 설계부터 시작해서, 더 나아가 만든 클래스들을 활용해, 빙고게임을 추가 제작하였습니다.
+
+## Structure
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80745897/230077430-c80ff8a5-4d51-4e34-821c-3d4bd21cdaa5.png"/>
+</p>
